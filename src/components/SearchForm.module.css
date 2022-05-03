@@ -1,0 +1,21 @@
+.section-search {
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    margin-bottom: 7rem;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form input {
+    height: 1.8rem;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    border: solid 2px rgb(84, 83, 81);
+    border-radius: 5px;
+}

@@ -1,0 +1,96 @@
+.cocktail {
+    width: 100vw;
+    margin: 0;
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    padding: 1.4%;
+    font-weight: bold;
+}
+
+.drink {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 1rem;
+
+}
+
+.image img {
+    width: 100%;
+    border-radius: 1rem;
+    border: black solid 2px;    
+    box-shadow: 0.3rem 0.3rem 0.5rem #777;
+
+}
+
+.info{
+    margin: 2rem;
+    align-items: flex-start;
+}
+
+.info p {
+    font-size: 1.1rem;
+    margin: 2rem;
+    padding: 0.5rem;
+    border-bottom: 1px black solid;
+}
+
+.info p span {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.list {
+    font-size: 1.1rem;
+    margin: 2rem;
+    padding: 0.5rem;
+    border-bottom: 1px black solid;
+}
+
+.list span {
+    font-weight: bold;
+
+}
+
+.button {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 3rem;
+}
+
+.button button {
+    transition: box-shadow 0.4s;
+    padding: 1rem 4rem;
+    background-color: white;
+    border: black solid;
+    border-radius: 0.4rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.button button:hover{
+    box-shadow: 0.4rem 0.4rem 0.6rem #777;
+    background-color: rgb(216, 234, 250);
+    font-size: 1.2rem;
+}
+
+
