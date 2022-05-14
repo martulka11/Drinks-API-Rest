@@ -1,6 +1,6 @@
 # Cocktails REST API
 > Create an applicaction with React using a cocktails API -  https://www.thecocktaildb.com/api.php.
-> You can enter name of  the cocktail and you can find the recipe.
+> You can enter name of the cocktail and you will find the recipe.
 
 ## Project Status
 Project is complete. 
