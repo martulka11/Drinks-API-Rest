@@ -5,5 +5,8 @@
 ## Project Status
 Project is complete. 
 
+## Live Demo
+[Cocktails' Recipes page](https://martulka11.github.io/Drinks-API-Rest/)
+
 ## Contact
 Created by [martalatoch.com](https://www.martalatoch.com/) - feel free to contact me!
