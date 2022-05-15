@@ -6,7 +6,7 @@
 Project is complete. 
 
 ## Live Demo
-[Cocktails' Recipes page](https://martulka11.github.io/Drinks-API-Rest/)
+[Cocktails' Recipes page](https://drinks-api-rest.vercel.app/)
 
 ## Contact
 Created by [martalatoch.com](https://www.martalatoch.com/) - feel free to contact me!
