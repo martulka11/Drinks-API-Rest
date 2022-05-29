@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <section className={styles.container}>
       <div className={styles.search}>
-        <h1 className={styles.header}>Find Cocktail's Recipe</h1>        
+        <h1 className={styles.header}>Find Cocktail Recipe</h1>        
         <SearchForm />
       </div>
       <div className={styles.list}>
