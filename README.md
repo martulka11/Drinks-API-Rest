@@ -3,8 +3,6 @@
 > You can enter name of the cocktail and you will find the recipe.
 
 
-![Main Page](https://res.cloudinary.com/martaaa19190/image/upload/v1653833386/moje_projekty/Obraz3_gcvpfj.jpg)
-
 ## Project Status
 Project is complete. 
 
