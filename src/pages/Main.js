@@ -8,7 +8,7 @@ const Main = () => {
         width:'100vw', height: '100vh', backgroundSize: 'cover',
       }}>
         <div className={styles.container}>
-           <h1 className={styles.header}>Cocktails' Recipes</h1>
+           <h1 className={styles.header}>Cocktail Recipes</h1>
             <h2>If you want to search a recipe for the best cocktail for you, you are in the right place</h2>
       </div>
       <div>
